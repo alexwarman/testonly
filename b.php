@@ -1,3 +1,3 @@
 <?php
 
-echo "ini file b";
+echo "ini file b";sdfsdf
